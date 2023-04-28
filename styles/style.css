@@ -77,7 +77,7 @@ h1 .violet {
 
 .image {
   width: 50%;
-  background-image: url(./images/image-header-desktop.jpg);
+  background-image: url(images/image-header-desktop.jpg);
   position: relative;
   border-top-right-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
@@ -98,13 +98,13 @@ h1 .violet {
     flex-direction: column-reverse;
     width: 20rem;
     max-height: unset;
-    margin-top: 280px;
+    margin-top: 180px;
   }
 
   .image {
     width: 100%;
     height: 250px;
-    background-image: url(./images/image-header-mobile.jpg);
+    background-image: url(images/image-header-mobile.jpg);
     background-size: cover;
     border-top-right-radius: 0.5rem;
     border-top-left-radius: 0.5rem;
